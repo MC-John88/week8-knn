@@ -1,0 +1,4 @@
+class,precision,recall,f1,support
+setosa,1.0,1.0,1.0,15
+versicolor,0.8333333333333334,1.0,0.9090909090909091,15
+virginica,1.0,0.8,0.888888888888889,15
